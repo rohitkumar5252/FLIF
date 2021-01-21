@@ -1,4 +1,4 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: FLIF
 Upstream-Contact: Jon Sneyers <jon.sneyers@gmail.com>
 Source: https://github.com/FLIF-hub/FLIF
