@@ -13,7 +13,7 @@ FLIF outperforms PNG, FFV1, lossless WebP, lossless BPG and lossless JPEG2000 in
 Moreover, FLIF supports a form of progressive interlacing (essentially a generalization/improvement of PNG's Adam7)
 which means that any prefix (e.g. partial download) of a compressed file can be used as a reasonable lossy encoding of the entire image.
 
-For more information on FLIF, visit http://flif.info
+For more information on FLIF, visit https://flif.info
 
 * * *
 
@@ -76,7 +76,7 @@ On Ubuntu:
 
 ### OS X
 
-* Install [homebrew](http://brew.sh)
+* Install [homebrew](https://brew.sh)
 * Install the dependencies: `brew install pkg-config libpng sdl2`
 * Run `make` in the FLIF/src directory
 
@@ -94,7 +94,7 @@ These will be available on the Release page
 ## Related Projects
 
 * **[Poly FLIF](https://github.com/UprootLabs/poly-flif)** - A javascript polyfill that allows you to use FLIF files in the browser. ([Demo](https://uprootlabs.github.io/poly-flif))
-* **[UGUI: FLIF](http://flif.info/UGUI_FLIF)** - A GUI that allows you to convert and view FLIF files.
+* **[UGUI: FLIF](https://flif.info/UGUI_FLIF)** - A GUI that allows you to convert and view FLIF files.
 * **[Ivy, the Taggable Image Viewer](https://github.com/lehitoskin/ivy)** – An image viewer that supports FLIF via [riff](https://github.com/lehitoskin/riff)
 * **[flifcrush](https://github.com/FLIF-hub/flifcrush)** - A brute-force FLIF optimizer.
 * **[libflif.js](https://github.com/saschanaz/libflif.js/)** – A javascript FLIF encoder and decoder. ([Demo](https://saschanaz.github.io/libflif.js/))
