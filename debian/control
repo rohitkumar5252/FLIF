@@ -6,7 +6,7 @@ Build-Depends: debhelper (>=9), bash-completion, libpng-dev, libsdl2-dev
 Standards-Version: 3.9.6
 Vcs-Git: https://github.com/FLIF-hub/FLIF.git
 Vcs-browser: https://github.com/FLIF-hub/FLIF
-Homepage: http://flif.info
+Homepage: https://flif.info
 
 Package: flif
 Architecture: any
